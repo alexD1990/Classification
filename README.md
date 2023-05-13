@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexD1990
-- 👀 I’m interested in analytics, web development and AI/ML.
-- 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on projects when i gain more experience
+- 👀 I’m interested in analytics and AI/ML.
+- 🌱 I’m currently learning data analytics, supervised and unsupervised machine learning. 
+- 💞️ Working as analyst for Norwegian tax administration
 
 <!---
 alexD1990/alexD1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
